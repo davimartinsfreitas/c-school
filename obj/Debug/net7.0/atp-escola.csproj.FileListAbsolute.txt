@@ -1,0 +1,15 @@
+C:\Users\Davi Martins\Desktop\atp-escola\bin\Debug\net7.0\atp-escola.exe
+C:\Users\Davi Martins\Desktop\atp-escola\bin\Debug\net7.0\atp-escola.deps.json
+C:\Users\Davi Martins\Desktop\atp-escola\bin\Debug\net7.0\atp-escola.runtimeconfig.json
+C:\Users\Davi Martins\Desktop\atp-escola\bin\Debug\net7.0\atp-escola.dll
+C:\Users\Davi Martins\Desktop\atp-escola\bin\Debug\net7.0\atp-escola.pdb
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.csproj.AssemblyReference.cache
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.AssemblyInfoInputs.cache
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.AssemblyInfo.cs
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.csproj.CoreCompileInputs.cache
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.dll
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\refint\atp-escola.dll
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.pdb
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\atp-escola.genruntimeconfig.cache
+C:\Users\Davi Martins\Desktop\atp-escola\obj\Debug\net7.0\ref\atp-escola.dll
